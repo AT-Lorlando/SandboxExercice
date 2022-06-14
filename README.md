@@ -1,3 +1,11 @@
+## Telechargement des fichier (Ou clonage du repo)
+
+- Ouvrir un terminal puis aller à l'endroit où vous voulez cloner le repo (ou ouvrir un terminal directement à l'endroit ou vous voulez cloner le repo)
+- tapez `git clone https://github.com/AT-Lorlando/SandboxExercice.git` (Cette commande est trouvable dans le menu `Code` du repo)
+<img src="gitclone.png" alt="Clone du repo">
+- C'est tout
+
+
 ## Avant de commencer
 
 - Verifier la présence des fichiers:
